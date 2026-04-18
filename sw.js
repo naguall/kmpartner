@@ -1,4 +1,4 @@
-const CACHE_NAME = 'km-partner-v1';
+const CACHE_NAME = 'km-partner-v2';
 const ASSETS = [
   './',
   './index.html',
